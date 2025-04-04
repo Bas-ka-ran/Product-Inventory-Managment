@@ -1,0 +1,2 @@
+1	Lays	Snacks	40	10
+125	Soap	Personal	20	40
